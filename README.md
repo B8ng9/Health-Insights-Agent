@@ -129,20 +129,7 @@ Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTIN
 
 We appreciate all contributions, from reporting bugs and improving documentation to implementing new features.
 
-## 👨‍💻 Contributors
-
-Thanks to all the amazing contributors who have helped improve this project!
-
-| Avatar | Name | GitHub | Role | Contributions |
-|--------|------|--------|------|---------------|
-| <img src="https://github.com/harshhh28.png" width="50px" height="50px" alt="harshhh28"/> | Harsh Gajjar | [harshhh28](https://github.com/harshhh28) | Project Creator & Maintainer | Core implementation, Documentation |
-
-<!-- To future contributors: Your profile will be added here when your PR is merged! -->
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙋‍♂️ Author
-
-Created by [Harsh Gajjar](https://harshgajjar.vercel.app)
